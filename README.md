@@ -1,0 +1,1 @@
+# merchandise_2018_bolsas
