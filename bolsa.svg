@@ -783,11 +783,19 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
+<<<<<<< HEAD
      inkscape:zoom="2.6140854"
      inkscape:cx="617.12838"
      inkscape:cy="1037.7505"
      inkscape:document-units="mm"
      inkscape:current-layer="g2181-6"
+=======
+     inkscape:zoom="0.98994949"
+     inkscape:cx="97.736639"
+     inkscape:cy="450.50764"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+>>>>>>> a3aa3aa35357f7d66d08300b69ea1d02c51ef5b1
      showgrid="false"
      inkscape:window-width="1280"
      inkscape:window-height="1001"
@@ -811,10 +819,14 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="fondo"
-     style="display:inline"
+     style="display:none"
      sodipodi:insensitive="true">
     <image
+<<<<<<< HEAD
        sodipodi:absref="/home/miguel/GIThub de GALPon/merchandise_2018_bolsas/bolsa-economica-larsen-38x42cm.jpg"
+=======
+       sodipodi:absref="/home/odo/Datos/Sync/edit/Clientes/galpon/Galpon/2018/merchandise_2018_bolsas/bolsa-economica-larsen-38x42cm.jpg"
+>>>>>>> a3aa3aa35357f7d66d08300b69ea1d02c51ef5b1
        xlink:href="bolsa-economica-larsen-38x42cm.jpg"
        style="display:inline;stroke-width:0.69303936"
        width="174.85179"
@@ -828,7 +840,7 @@
      inkscape:groupmode="layer"
      id="layer7"
      inkscape:label="fondo_blanco"
-     style="display:none">
+     style="display:inline">
     <rect
        style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:7.80000019;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:294.80316162;stroke-opacity:1;paint-order:stroke fill markers"
        id="rect2499"
@@ -841,7 +853,7 @@
      inkscape:label="espacio trabajo"
      inkscape:groupmode="layer"
      id="layer1"
-     style="display:inline">
+     style="display:none">
     <rect
        style="opacity:1;fill:#e0d3ca;fill-opacity:1;stroke:#cc0000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
        id="rect826"
@@ -849,9 +861,9 @@
        height="92.130585"
        x="63.870411"
        y="135.25717"
-       inkscape:export-filename="/media/Datos/Sync/edit/Clientes/galpon/Galpon/2018/merchandise_2018_bolsas/raster/variante3_v1.png"
-       inkscape:export-xdpi="600.10016"
-       inkscape:export-ydpi="600.10016" />
+       inkscape:export-filename="/media/Datos/Sync/edit/Clientes/galpon/Galpon/2018/merchandise_2018_bolsas/raster/variante3_v1_highres.png"
+       inkscape:export-xdpi="5000.0571"
+       inkscape:export-ydpi="5000.0571" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -4336,7 +4348,7 @@
       <polygon
          id="polygon14-8"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:normal;word-spacing:normal;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10.43299961;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         points="63.547,20.773 63.547,18.125 54.453,18.125 54.453,37.512 57.145,37.512 57.148,20.773 "
+         points="57.145,37.512 57.148,20.773 63.547,20.773 63.547,18.125 54.453,18.125 54.453,37.512 "
          transform="matrix(1.249992,0,0,-1.249992,-51.421551,541.91346)" />
       <path
          inkscape:connector-curvature="0"
@@ -4361,7 +4373,7 @@
       <polygon
          id="polygon24-3"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:normal;word-spacing:normal;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10.43299961;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         points="123.61,37.508 123.61,17.215 109.03,31.891 109.03,18.121 106.34,18.121 106.34,38.285 120.91,23.566 120.91,37.508 "
+         points="106.34,18.121 106.34,38.285 120.91,23.566 120.91,37.508 123.61,37.508 123.61,17.215 109.03,31.891 109.03,18.121 "
          transform="matrix(1.249992,0,0,-1.249992,-51.421551,541.91346)" />
       <path
          inkscape:connector-curvature="0"
@@ -4719,7 +4731,7 @@
       <polygon
          id="polygon168-3"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:normal;word-spacing:normal;text-anchor:start;fill:#ff6b00;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10.43299961;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         points="13.777,7.375 14.09,10.32 11.719,7.375 "
+         points="14.09,10.32 11.719,7.375 13.777,7.375 "
          transform="matrix(1.249992,0,0,-1.249992,-51.421551,541.91346)" />
       <path
          inkscape:connector-curvature="0"
@@ -6542,7 +6554,7 @@
         <polygon
            id="polygon5233"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:normal;word-spacing:normal;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10.43299961;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           points="54.453,37.512 57.145,37.512 57.148,20.773 63.547,20.773 63.547,18.125 54.453,18.125 "
+           points="63.547,18.125 54.453,18.125 54.453,37.512 57.145,37.512 57.148,20.773 63.547,20.773 "
            transform="matrix(1.249992,0,0,-1.249992,-51.421551,541.91346)" />
         <path
            inkscape:connector-curvature="0"
@@ -6567,7 +6579,7 @@
         <polygon
            id="polygon5243"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:normal;word-spacing:normal;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10.43299961;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           points="123.61,17.215 109.03,31.891 109.03,18.121 106.34,18.121 106.34,38.285 120.91,23.566 120.91,37.508 123.61,37.508 "
+           points="106.34,38.285 120.91,23.566 120.91,37.508 123.61,37.508 123.61,17.215 109.03,31.891 109.03,18.121 106.34,18.121 "
            transform="matrix(1.249992,0,0,-1.249992,-51.421551,541.91346)" />
         <path
            inkscape:connector-curvature="0"
@@ -6925,7 +6937,7 @@
         <polygon
            id="polygon5387"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:normal;word-spacing:normal;text-anchor:start;fill:#ff6b00;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10.43299961;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           points="11.719,7.375 13.777,7.375 14.09,10.32 "
+           points="13.777,7.375 14.09,10.32 11.719,7.375 "
            transform="matrix(1.249992,0,0,-1.249992,-51.421551,541.91346)" />
         <path
            inkscape:connector-curvature="0"
@@ -7697,7 +7709,7 @@
            inkscape:connector-curvature="0" />
         <polygon
            transform="matrix(1.249992,0,0,-1.249992,-51.421551,541.91346)"
-           points="57.145,37.512 57.148,20.773 63.547,20.773 63.547,18.125 54.453,18.125 54.453,37.512 "
+           points="54.453,18.125 54.453,37.512 57.145,37.512 57.148,20.773 63.547,20.773 63.547,18.125 "
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:normal;word-spacing:normal;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10.43299961;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
            id="polygon4144" />
         <path
@@ -7722,7 +7734,7 @@
            inkscape:connector-curvature="0" />
         <polygon
            transform="matrix(1.249992,0,0,-1.249992,-51.421551,541.91346)"
-           points="109.03,31.891 109.03,18.121 106.34,18.121 106.34,38.285 120.91,23.566 120.91,37.508 123.61,37.508 123.61,17.215 "
+           points="120.91,23.566 120.91,37.508 123.61,37.508 123.61,17.215 109.03,31.891 109.03,18.121 106.34,18.121 106.34,38.285 "
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:normal;word-spacing:normal;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10.43299961;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
            id="polygon4154" />
         <path
@@ -8080,7 +8092,7 @@
            inkscape:connector-curvature="0" />
         <polygon
            transform="matrix(1.249992,0,0,-1.249992,-51.421551,541.91346)"
-           points="13.777,7.375 14.09,10.32 11.719,7.375 "
+           points="14.09,10.32 11.719,7.375 13.777,7.375 "
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:normal;word-spacing:normal;text-anchor:start;fill:#ff6b00;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10.43299961;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
            id="polygon4298" />
         <path
